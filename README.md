@@ -5,7 +5,7 @@
 -->
 
 ## Hello, I am Ru$Uz <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
-- <b>22 years old</b>
+- <b>26 years old</b>
 - <b>Rostov-on-Don</b>
 - <b>Bachelor of Applied Informatics</b>
 
